@@ -1,0 +1,6 @@
+server:
+  port: 8004
+spring:
+  profiles: dev
+  application:
+    name: springcloud-provider-dept4-config
